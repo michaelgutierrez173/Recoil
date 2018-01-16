@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hp
+  - NeutronCore
+  - Fire
+  - Barrel
+  - Explosion
+  - PoolManager
+  - NetworkPlayer
+  - Bullet
+  - AmmoPoolManager
+  - EnemyPlayer
+  - PlayerCamera
+  - DeathBound
+  - WeaponSpawn
+  - HealthSpawn
+  - BarrelSpawn
+  - PlayerSpawn
+  - Background
+  - CapturePoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hitbox
+  - Bullet
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BlackHole
+    uniqueID: 1285183523
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UITest
+    uniqueID: 1519271305
+    locked: 0
+  - name: Arrow
+    uniqueID: 1187810055
+    locked: 0

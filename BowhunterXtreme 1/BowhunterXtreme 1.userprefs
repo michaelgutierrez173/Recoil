@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="BowhunterXtreme 1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StandaloneScripts\FireBound.cs">
+    <Files>
+      <File FileName="Assets\Scripts\StandaloneScripts\FireBound.cs" Line="32" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
